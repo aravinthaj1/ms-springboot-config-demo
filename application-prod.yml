@@ -1,4 +1,4 @@
-welcome.message: "From test github repo - app prod yml - config file"
+welcome.message: "1: application-prod.yml"
 
 spring: 
  data: 
