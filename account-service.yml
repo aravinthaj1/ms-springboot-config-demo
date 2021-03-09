@@ -1,8 +1,8 @@
-welcome.message: "From account service repo - account service yml - github repo config file"
+welcome.message: "1: acount-service.yml"
 
 spring: 
  data: 
   mongodb: 
    host: localhost
    port: 27017
-   database: account_service
+   database: test
