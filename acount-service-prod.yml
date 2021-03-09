@@ -1,0 +1,8 @@
+welcome.message: "1: acount-service-prod.yml"
+
+spring: 
+ data: 
+  mongodb: 
+   host: localhost
+   port: 27017
+   database: test
