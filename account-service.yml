@@ -1,4 +1,4 @@
-welcome.message: "From account service repo - app account service yml - env congif file"
+welcome.message: "From account service repo - account service yml - github repo congif file"
 
 spring: 
  data: 
