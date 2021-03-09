@@ -1,8 +1,0 @@
-welcome.message: "From account service repo - prod env congif file"
-
-spring: 
- data: 
-  mongodb: 
-   host: localhost
-   port: 27017
-   database: account_service
