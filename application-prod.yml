@@ -3,6 +3,6 @@ welcome.message: "From test github repo - app prod yml - config file"
 spring: 
  data: 
   mongodb: 
-   host: localhost
+   host: prod
    port: 27017
-   database: prod
+   database: test
