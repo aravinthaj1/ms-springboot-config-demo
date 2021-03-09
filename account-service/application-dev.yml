@@ -1,4 +1,4 @@
-welcome.message: "From account service repo - app dev yml - env congif file"
+welcome.message: "From account service repo - app dev yml - env config file"
 
 spring: 
  data: 
