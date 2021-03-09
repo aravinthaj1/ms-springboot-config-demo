@@ -1,8 +1,8 @@
-welcome.message: "From account service repo - app prod yml - env congif file"
+welcome.message: "From account service repo - app prod yml - env config file"
 
 spring: 
  data: 
   mongodb: 
-   host: localhost
+   host: prod
    port: 27017
    database: account_service
