@@ -6,8 +6,12 @@ server.port: 9103
 external: 
   service: 
     uri: 
-      account: "http://localhost:9101"
-      contact: "http://localhost:9102"
+      account: 
+        host: localhost
+        port: 9101
+      contact: 
+        host: localhost
+        port: 9102
 
 spring: 
  data: 
