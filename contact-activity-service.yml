@@ -1,8 +1,13 @@
 #server.port: 8080
 server.port: 9103
 
-account-service-uri: "http://localhost:9101"
-contact-service-uri: "http://localhost:9102"
+#account-service-uri: "http://localhost:9101"
+#contact-service-uri: "http://localhost:9102"
+external: 
+  service: 
+    uri: 
+      account: "http://localhost:9101"
+      contact: "http://localhost:9102"
 
 spring: 
  data: 
