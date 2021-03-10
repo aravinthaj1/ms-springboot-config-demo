@@ -1,8 +1,8 @@
-welcome.message: "1: application-prod.yml"
+env: "prod"
 
 spring: 
  data: 
   mongodb: 
-   host: prod
+   host: localhost
    port: 27017
    database: test
