@@ -1,9 +1,10 @@
+app.env: "accountService-default"
 #server.port: 8080
 server.port: 9101
 
-spring: 
- data: 
-  mongodb: 
+spring:
+ data:
+  mongodb:
    host: localhost
    port: 27017
    database: account_service
