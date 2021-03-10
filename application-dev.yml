@@ -1,4 +1,4 @@
-welcome.message: "1: application-dev.yml"
+env: "dev"
 
 spring: 
  data: 
