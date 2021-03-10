@@ -1,0 +1,9 @@
+#server.port: 8080
+server.port: 9103
+
+spring: 
+ data: 
+  mongodb: 
+   host: localhost
+   port: 27017
+   database: contact_activity_service
