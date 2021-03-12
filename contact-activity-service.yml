@@ -7,9 +7,11 @@ external:
   service: 
     uri: 
       account: 
+        name: account-service
         host: localhost
         port: 9101
       contact: 
+        name: contact-servie
         host: localhost
         port: 9102
 
